@@ -8,7 +8,11 @@ Visando maior acessibilidade fizemos um e-Book comentando passo a passo todo o p
 Ele é bem interessante e completo e utiliza de muitos recuros inteligentes como responsividade, jquery, icones, caroucel e muito mais.
 O eBook é bem detalhado e passo a passo para voce entender todo codigo e não apenas digitar sem compreender.
 
-Espero que goste e envie seu comentario
+Espero que goste e envie seu comentario.
+Se não conseguir abrir diretamente no git faça um download do arquivo.
+
+HTMLAvancadoApiNetflix.pdf
+
 
 williamsilva.codigo@gmail.com
 github.com/swilliamsilva
